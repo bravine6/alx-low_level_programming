@@ -2,6 +2,7 @@
 
 /**
  * checks for alphabet
+ * Description: checks alphabet
  *
  * Returns: 1 if true, 0 if false
  */
