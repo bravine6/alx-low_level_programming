@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * prints the sign of a number
- *
- * Returns: 1 if greater than 0, -1 less than 0, 0
+ * print_sign - print sign of a number
+ * @n: the entier to be checked
+ * Return: 1 if n > 0 |-1 if n <0  else 0
  */
 int print_sign(int n)
 {

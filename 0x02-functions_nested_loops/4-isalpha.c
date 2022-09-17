@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * checks for alphabet
- * Description: checks alphabet
- *
- * Returns: 1 if true, 0 if false
+ * _isalpha - find check if character is alpha
+ * @c: the character to be checked
+ *Return: 1 if c is a letter else 0
  */
 int _isalpha(int c)
 {
