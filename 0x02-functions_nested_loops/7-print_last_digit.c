@@ -3,6 +3,7 @@
 /**
  * main - prints the last digit of a number
  * @n: the int to extract the last digit from
+ * @a: description
  * Return: Int
  */
 int print_last_digit(int n)
@@ -10,7 +11,7 @@ int print_last_digit(int n)
 	int a;
 
 	if (n < 0)
-                n = -n;
+	       	n = -n;
 
 	a = n % 10;
 
