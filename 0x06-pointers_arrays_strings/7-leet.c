@@ -28,7 +28,7 @@ char *leet(char *s)
 			}
 			leetCount++;
 		}
-		stringCount++
+		stringCount++;
 	}
 	return (s);
 }
